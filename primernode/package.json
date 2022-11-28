@@ -1,0 +1,23 @@
+{
+  "name": "primernode",
+  "version": "1.0.0",
+  "description": "ejercicio practico node openbootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fco-Alvarez/ob_js.git"
+  },
+  "keywords": [
+    "ejercio",
+    "node"
+  ],
+  "author": "fco_alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fco-Alvarez/ob_js/issues"
+  },
+  "homepage": "https://github.com/Fco-Alvarez/ob_js#readme"
+}
